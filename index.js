@@ -144,7 +144,7 @@ for (let person of people) {
     } else {
         bad.push(person.totalMoney)
     }
-    // console.log(people)
+    console.log(person)
     
 
     document.write(`
